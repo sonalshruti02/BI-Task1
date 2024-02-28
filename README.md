@@ -7,4 +7,4 @@ To run this classifier as a website into your system follow the steps given belo
 
 1. Install requirements using - pip install requirements.txt
 2. Simply type command in the terminal - streamlit run Main.py
-# BI-Task1
+
