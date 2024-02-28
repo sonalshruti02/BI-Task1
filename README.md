@@ -1,5 +1,5 @@
                                                         SPAM-NotSPAM Classifier
-====================================================================================================================
+
 NOTE: you should do all the things related to this project after creating a dedicated environment.
 
 
